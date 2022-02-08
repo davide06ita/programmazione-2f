@@ -1,5 +1,9 @@
 function card() {
     return (
-        <h1>Ciao, io sono una Card e sono penosa!</h1>
+        <div>
+            <h1>titolo</h1>
+            <p>Testo</p>
+            <button>premi qui...</button>
+        </div>
     )
 }
