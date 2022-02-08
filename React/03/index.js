@@ -1,6 +1,8 @@
-ReactDOM.render(
+reactDom.render(
     <div>
-        <Card />
+        <Card titolo="panini"/>
+        <Card titolo="Pizza"/>
+        <Card titolo="Gelato"/>
     </div>,
     document.getElementById('root')
 )
