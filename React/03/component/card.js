@@ -1,8 +1,8 @@
 function card() {
     return (
-        <div>
+        <div className="my-card">
             <h1>titolo</h1>
-            <p>Testo</p>
+            <p>LIL_PAVANELLO</p>
             <button>premi qui...</button>
         </div>
     )
